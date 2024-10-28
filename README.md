@@ -34,8 +34,16 @@
   <footer style="margin-top: 20px;">
     <p>📱 Follow me on other platforms for more updates:</p>
     <ul>
-      <li><a href="https://medium.com/@dino5168" target="_blank">Medium Blog</a></li>
-      
+      <li>
+        <a href="https://medium.com/@dino5168" target="_blank">Medium Blog</a>
+      </li>
+      <li>
+        <a href="https://www.pinterest.com/dino5168/vietnamese-music/" target="_blank">pinterest Blog</a>
+      </li>
+       <li>
+        <a href=" https://www.tumblr.com/blog/aitiktok" target="_blank">tumblr Blog</a>
+      </li>
+     
     </ul>
   </footer>
 </body>
