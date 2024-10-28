@@ -25,7 +25,15 @@
       🔗 Visit My YouTube Channel
     </button>
   </a>
-  <a href="https://youtu.be/E5baaKX-Q_o"  target="_blank">Hỗn Loạn Giữa Mộng Và Thực </a>
+  <ul>
+    <li> <a href="https://youtu.be/E5baaKX-Q_o"  target="_blank">Hỗn Loạn Giữa Mộng Và Thực </a></li>
+    <li> <a href="https://youtu.be/xkqIohcN4c4"  target="_blank">Chỉ Còn Im Lặng</a></li>
+    <li> <a href="https://youtu.be/tFnJ5hIWmTQ"  target="_blank">Anh Nhớ Em</a></li>
+    <li> <a href="https://youtu.be/qLZeBTwVxZc"  target="_blank">Điều Ước Trong Đêm</a></li>
+  
+    
+  </ul>
+ 
 
   <footer style="margin-top: 20px;">
     <p>📱 Follow me on other platforms for more updates:</p>
