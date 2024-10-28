@@ -41,10 +41,10 @@
         <a href="https://www.pinterest.com/dino5168/vietnamese-music/" target="_blank">pinterest Blog</a>
       </li>
        <li>
-        <a href=" https://www.tumblr.com/blog/aitiktok" target="_blank">tumblr Blog</a>
+        <a href="https://www.tumblr.com/blog/aitiktok" target="_blank">tumblr Blog</a>
       </li>
      
-    </ul>
+  
   </footer>
 </body>
 </html>
