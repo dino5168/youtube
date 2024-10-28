@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watch My Video</title>
+  <style>
+    body {
+      text-align: center;
+      margin-top: 50px;
+    }
+    img {
+      width: 300px; /* You can adjust the image size as needed */
+      cursor: pointer;
+      transition: transform 0.2s; /* Hover effect */
+    }
+    img:hover {
+      transform: scale(1.05); /* Slightly enlarge the image on hover */
+    }
+  </style>
+</head>
+<body>
+  <h1>Watch My YouTube Video!</h1>
+  <a href="https://youtu.be/e0Vm4mVhdZM" target="_blank">
+    <img src="https://img.youtube.com/vi/e0Vm4mVhdZM/0.jpg" alt="Watch my video">
+  </a>
+  <p>Click the image to watch the video!</p>
+</body>
+</html>
