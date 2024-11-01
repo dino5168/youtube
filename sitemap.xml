@@ -11,8 +11,23 @@
     <loc>https://dino5168.github.io/youtube/indexhi.html</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+    <!-- Add more URLs as needed -->
+   <url>
+    <loc>https://dino5168.github.io/youtube/indexcn.html</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+    <!-- Add more URLs as needed -->
+   <url>
+    <loc>https://dino5168.github.io/youtube/indexes.html</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
    <url>
     <loc>https://dino5168.github.io/youtube/indextw.html</loc>
     <lastmod>2024-11-01</lastmod>
@@ -21,7 +36,7 @@
   </url>
 
    <url>
-    <loc>https://dino5168.github.io/youtube/indexjp.html</loc>
+    <loc>https://dino5168.github.io/youtube/indexfr.html</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,12 +54,7 @@
     <priority>0.6</priority>
   </url>
 
-  <url>
-    <loc>https://dino5168.github.io/youtube/indexpt.html</loc>
-    <lastmod>2024-11-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+
  <url>
     <loc>https://dino5168.github.io/youtube/indexko.html</loc>
     <lastmod>2024-11-01</lastmod>
