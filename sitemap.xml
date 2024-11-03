@@ -53,7 +53,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-
+<url>
+    <loc>https://dino5168.github.io/youtube/indexid.html</loc>
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 
  <url>
     <loc>https://dino5168.github.io/youtube/indexko.html</loc>
