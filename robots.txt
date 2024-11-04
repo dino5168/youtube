@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Allow all language versions
+Allow: /youtube/indexhi.html
+Allow: /youtube/indexcn.html
+Allow: /youtube/indexes.html
+Allow: /youtube/indextw.html
+Allow: /youtube/indexfr.html
+Allow: /youtube/indexjp.html
+Allow: /youtube/indexpt.html
+Allow: /youtube/indexid.html
+Allow: /youtube/indexko.html
+Allow: /youtube/indexvi.html
+
+# Sitemap location
+Sitemap: https://dino5168.github.io/youtube/sitemap.xml
