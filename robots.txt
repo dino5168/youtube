@@ -14,4 +14,4 @@ Allow: /youtube/indexko.html
 Allow: /youtube/indexvi.html
 
 # Sitemap location
-Sitemap: https://dino5168.github.io/youtube/sitemap.xml
+Sitemap: https://dino5168.github.io/youtube/myweb.xml
